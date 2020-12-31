@@ -1,7 +1,11 @@
-#News-Viewer (React)
+# News-Viewer (React)
 
-axios , async await , react-router
+## 스택
 
-Link = https://wondonghwi.github.io/News-View/
+## React - class형 으로 개발 
+
+## axios , async await , react-router
+
+[](https://wondonghwi.github.io/News-View/)
 
 <img src='capture.PNG'>
