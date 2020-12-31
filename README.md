@@ -2,7 +2,7 @@
 
 ## <기술스택>
 
-## axios , async await , react-router
+## React-Router , async await , axios
 
 ( Preview ) <br/>
  
