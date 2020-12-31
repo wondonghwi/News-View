@@ -7,5 +7,5 @@
 ### [웹페이지바로가기](https://wondonghwi.github.io/News-View/)
 
 ( Preview ) <br/>
-
-<img src='capture.PNG'>
+ 
+![](news_view.png)
