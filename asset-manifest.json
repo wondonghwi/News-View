@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/News-View/static/css/main.69eda509.chunk.css",
-    "main.js": "/News-View/static/js/main.92271b3f.chunk.js",
-    "main.js.map": "/News-View/static/js/main.92271b3f.chunk.js.map",
-    "runtime-main.js": "/News-View/static/js/runtime-main.6eab9fbf.js",
-    "runtime-main.js.map": "/News-View/static/js/runtime-main.6eab9fbf.js.map",
-    "static/js/2.7069be3d.chunk.js": "/News-View/static/js/2.7069be3d.chunk.js",
-    "static/js/2.7069be3d.chunk.js.map": "/News-View/static/js/2.7069be3d.chunk.js.map",
-    "index.html": "/News-View/index.html",
-    "precache-manifest.36a60014e4cd0f3a2f384dcd8b90eed5.js": "/News-View/precache-manifest.36a60014e4cd0f3a2f384dcd8b90eed5.js",
-    "service-worker.js": "/News-View/service-worker.js",
-    "static/css/main.69eda509.chunk.css.map": "/News-View/static/css/main.69eda509.chunk.css.map",
-    "static/js/2.7069be3d.chunk.js.LICENSE.txt": "/News-View/static/js/2.7069be3d.chunk.js.LICENSE.txt"
+    "main.css": "/React_TodoList_styleComponents_Context/static/css/main.69eda509.chunk.css",
+    "main.js": "/React_TodoList_styleComponents_Context/static/js/main.696a1f2d.chunk.js",
+    "main.js.map": "/React_TodoList_styleComponents_Context/static/js/main.696a1f2d.chunk.js.map",
+    "runtime-main.js": "/React_TodoList_styleComponents_Context/static/js/runtime-main.c24049a2.js",
+    "runtime-main.js.map": "/React_TodoList_styleComponents_Context/static/js/runtime-main.c24049a2.js.map",
+    "static/js/2.b6c50bfe.chunk.js": "/React_TodoList_styleComponents_Context/static/js/2.b6c50bfe.chunk.js",
+    "static/js/2.b6c50bfe.chunk.js.map": "/React_TodoList_styleComponents_Context/static/js/2.b6c50bfe.chunk.js.map",
+    "index.html": "/React_TodoList_styleComponents_Context/index.html",
+    "precache-manifest.67cefe747988fee70002c86767aa7298.js": "/React_TodoList_styleComponents_Context/precache-manifest.67cefe747988fee70002c86767aa7298.js",
+    "service-worker.js": "/React_TodoList_styleComponents_Context/service-worker.js",
+    "static/css/main.69eda509.chunk.css.map": "/React_TodoList_styleComponents_Context/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.b6c50bfe.chunk.js.LICENSE.txt": "/React_TodoList_styleComponents_Context/static/js/2.b6c50bfe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6eab9fbf.js",
-    "static/js/2.7069be3d.chunk.js",
+    "static/js/runtime-main.c24049a2.js",
+    "static/js/2.b6c50bfe.chunk.js",
     "static/css/main.69eda509.chunk.css",
-    "static/js/main.92271b3f.chunk.js"
+    "static/js/main.696a1f2d.chunk.js"
   ]
 }
